@@ -102,7 +102,7 @@ const Success_stories = () =>{
 
             {/* .................................DOTTED LIST ........................................... */}
 
-            {/* <section className="list-dotted-col">
+            <section className="list-dotted-col">
                 <div className="list-dotted-container">
                     <div className="list-dotted-container-main">
                         <div className="list-dotted-main-h">
@@ -112,7 +112,7 @@ const Success_stories = () =>{
                             <div className="content-col">
                                 <div className="content-col-box">
                                     <div>
-                                        <img className="content-col-img" src="/image"/>
+                                        <img className="content-col-img" src="/image/Landing_page.png"/>
                                     </div>
                                     <div className="content-col-content">
                                         <div></div>
@@ -137,7 +137,7 @@ const Success_stories = () =>{
                             <div className="content-col-col2">
                                 <div className="content-col-box">
                                     <div>
-                                        <img className="content-col-img" src="/image"/>
+                                        <img className="content-col-img" src="/image/business-people.png"/>
                                     </div>
                                     <div className="content-col-content">
                                         <div></div>
@@ -158,7 +158,7 @@ const Success_stories = () =>{
                             <div className="content-col">
                                 <div className="content-col-box">
                                     <div>
-                                        <img className="content-col-img" src="/image"/>
+                                        <img className="content-col-img" src="/image/new-opportunity.png"/>
                                     </div>
                                     <div className="content-col-content">
                                         <div></div>
@@ -177,7 +177,7 @@ const Success_stories = () =>{
                         </div>
                     </div>    
                 </div>
-            </section> */}
+            </section>
 
             {/* ...................................FIND OFFICE..................................... */}
 
